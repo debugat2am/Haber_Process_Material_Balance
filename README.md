@@ -21,8 +21,20 @@ Material balance analysis of ammonia production using the Haber process with rec
 
 ## Repository Structure
 
+```text
 Haber_Process_Material_Balance
 │
 ├── data
+│   ├── Stream_Conditions.md
+│   ├── Design_Assumptions.md
+│   ├── Base_Case_Results.md
+│   └── DWSIM_Simulation_Link.txt
+│
 ├── report
+│   ├── CHE251_Term_Project_Proposal.docx
+│   ├── Mid_Term_Project_Final_Report.pdf
+│   ├── che-251 End term report.pdf
+│   └── Final_Presentation.pptx
+│
 └── README.md
+```

@@ -30,7 +30,6 @@ This project focuses on material balance analysis of ammonia production using th
 
 - Chemical Process Calculations
 - DWSIM
-- Microsoft Excel
 - Material Balance Principles
 
 ---

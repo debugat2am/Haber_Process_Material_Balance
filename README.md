@@ -1,23 +1,39 @@
 # Haber Process Material Balance Analysis
 
 ## Project Overview
-Material balance analysis of ammonia production using the Haber process with recycle and purge streams.
+
+This project focuses on material balance analysis of ammonia production using the Haber Process with recycle and purge streams. The objective was to study the effect of recycle ratio and inert gas accumulation on ammonia production and validate the calculations using DWSIM simulation.
+
+---
 
 ## Objectives
+
 - Perform material balance calculations for ammonia synthesis.
-- Analyze recycle and purge stream effects.
+- Analyze recycle and purge stream behavior.
 - Study argon accumulation in the recycle loop.
-- Determine ammonia production rate.
+- Determine ammonia production rates under steady-state operation.
+- Validate analytical calculations using DWSIM simulation.
+
+---
 
 ## Methodology
-1. Define process flow diagram.
-2. Perform stream-wise material balances.
-3. Calculate recycle and purge requirements.
-4. Validate results using DWSIM simulation.
 
-## Tools Used
+1. Developed process flow diagram for the Haber process.
+2. Performed component-wise material balances.
+3. Calculated recycle and purge stream flow rates.
+4. Evaluated argon buildup in the recycle loop.
+5. Validated results using DWSIM simulation.
+
+---
+
+## Tools and Technologies
+
 - Chemical Process Calculations
 - DWSIM
+- Microsoft Excel
+- Material Balance Principles
+
+---
 
 ## Repository Structure
 
@@ -38,3 +54,14 @@ Haber_Process_Material_Balance
 │
 └── README.md
 ```
+
+---
+
+## Key Outcomes
+
+- Determined recycle and purge stream requirements.
+- Quantified argon accumulation in the recycle loop.
+- Estimated ammonia production rate for the base case.
+- Verified analytical calculations using process simulation.
+
+---
